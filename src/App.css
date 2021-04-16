@@ -36,3 +36,29 @@
     transform: rotate(360deg);
   }
 }
+
+.userImage {
+  border-radius: 4.25rem !important
+}
+
+.dasboardDiv {
+  margin-left: 0.5em !important;
+}
+
+.userDiv {
+  padding-top: 4em;
+  padding-left: 15em !important;
+  font-size: 14px;
+}
+
+.userListDiv {
+  padding-top: 1em;
+}
+
+.moneyFont {
+  color: #000C66;
+}
+
+.test-style {
+      margin: 10px 5px;
+}
